@@ -5,6 +5,6 @@ A basic database application made on SQL for managing library operations, includ
 
 ## Requirements
  - Microsoft SQL Server or other SQL client.
- - SQL Server Managment Studio or other similar.
+ - SQL Server Management Studio or other similar.
 
  
